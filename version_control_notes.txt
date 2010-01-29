@@ -1,6 +1,6 @@
 Version Control and Backups
 
-Version Control
+Version Control foo
 
 Why should you care?
 - REQUIRED for getting a job at any place that's not a joke
